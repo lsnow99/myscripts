@@ -1,0 +1,3 @@
+(import "dir/rel.csl" rel)
+
+(rel)
