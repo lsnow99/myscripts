@@ -1,0 +1,2 @@
+; Add the first and second arguments
+(+ (nth 0 args) (nth 1 args))
